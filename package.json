@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/moharm/FormRecognitionFacial#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodeman": "^1.1.2",
     "nodemon": "^1.19.1"
   }
